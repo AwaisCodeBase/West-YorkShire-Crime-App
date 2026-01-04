@@ -117,16 +117,27 @@ A short screencast demonstrates:
    ```bash
    git clone https://github.com/your-username/West-Yorkshire-Crime-App.git
 Open the project in Android Studio
+
 Sync Gradle files
+
 Run the application on:
+
 Android Emulator, or
+
 Physical Android device (USB debugging enabled)
+
 📄 Dataset Information
+
 The dataset used in this project contains 1612 crime records for the West Yorkshire area and was provided for academic use as part of the coursework.
+
 ⚠️ Academic Integrity
+
 This project is original work developed solely for academic assessment.
+
 All external tools, APIs, and libraries have been used responsibly and are acknowledged within the coursework report.
+
 👨‍💻 Author
+
 Awais Ali
-BSc Computer Science
+BS Computer Science
 Mobile Application Development Coursework
