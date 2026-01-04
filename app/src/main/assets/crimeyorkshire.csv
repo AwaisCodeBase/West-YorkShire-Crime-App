@@ -1,0 +1,26 @@
+crimeId,crimeType,reportedBy,lsoaName,latitude,longitude,outcomeCategory
+CRIME001,Burglary,West Yorkshire Police,Leeds 001A,53.8008,-1.5491,Investigation complete; no suspect identified
+CRIME002,Vehicle crime,West Yorkshire Police,Bradford 002B,53.7960,-1.7594,Under investigation
+CRIME003,Anti-social behaviour,West Yorkshire Police,Wakefield 003C,53.6833,-1.5000,No further action
+CRIME004,Violence and sexual offences,West Yorkshire Police,Huddersfield 004D,53.6458,-1.7850,Awaiting court outcome
+CRIME005,Shoplifting,West Yorkshire Police,Halifax 005E,53.7248,-1.8583,Offender given penalty notice
+CRIME006,Public order,West Yorkshire Police,Dewsbury 006F,53.6900,-1.6300,Investigation complete; no suspect identified
+CRIME007,Criminal damage and arson,West Yorkshire Police,Keighley 007G,53.8671,-2.0000,Under investigation
+CRIME008,Drugs,West Yorkshire Police,Batley 008H,53.7167,-1.6333,Offender given a caution
+CRIME009,Bicycle theft,West Yorkshire Police,Castleford 009I,53.7167,-1.3667,Investigation complete; no suspect identified
+CRIME010,Robbery,West Yorkshire Police,Pontefract 010J,53.6833,-1.3167,Awaiting court outcome
+CRIME011,Theft from the person,West Yorkshire Police,Morley 011K,53.7500,-1.6000,Status update unavailable
+CRIME012,Other theft,West Yorkshire Police,Pudsey 012L,53.7950,-1.6600,Investigation complete; no suspect identified
+CRIME013,Burglary,West Yorkshire Police,Horsforth 013M,53.8350,-1.6400,Under investigation
+CRIME014,Vehicle crime,West Yorkshire Police,Yeadon 014N,53.8650,-1.6900,Offender given penalty notice
+CRIME015,Anti-social behaviour,West Yorkshire Police,Guiseley 015O,53.8750,-1.7100,No further action
+CRIME016,Violence and sexual offences,West Yorkshire Police,Otley 016P,53.9050,-1.6900,Awaiting court outcome
+CRIME017,Shoplifting,West Yorkshire Police,Ilkley 017Q,53.9250,-1.8200,Investigation complete; no suspect identified
+CRIME018,Public order,West Yorkshire Police,Shipley 018R,53.8350,-1.7750,Under investigation
+CRIME019,Criminal damage and arson,West Yorkshire Police,Bingley 019S,53.8500,-1.8400,Offender given a caution
+CRIME020,Drugs,West Yorkshire Police,Saltaire 020T,53.8400,-1.7900,Status update unavailable
+CRIME021,Bicycle theft,West Yorkshire Police,Baildon 021U,53.8500,-1.7600,Investigation complete; no suspect identified
+CRIME022,Robbery,West Yorkshire Police,Cleckheaton 022V,53.7250,-1.7100,Under investigation
+CRIME023,Theft from the person,West Yorkshire Police,Heckmondwike 023W,53.7100,-1.6700,Awaiting court outcome
+CRIME024,Other theft,West Yorkshire Police,Liversedge 024X,53.7050,-1.6900,Offender given penalty notice
+CRIME025,Burglary,West Yorkshire Police,Mirfield 025Y,53.6850,-1.6950,No further action

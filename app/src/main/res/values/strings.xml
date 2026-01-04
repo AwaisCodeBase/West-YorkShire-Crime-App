@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YorkShire_Crimes</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoic2hlcmEtMTEiLCJhIjoiY21qdm0yYWgxNGI3dDNnc2NpMDRyZXNxYyJ9.tdGO5PvanEwllGJ1o62AjA</string>
+</resources>

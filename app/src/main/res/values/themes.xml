@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    
+    <style name="Base.Theme.YorkShire_Crimes" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_variant</item>
+        <item name="colorOnSecondary">@color/on_secondary</item>
+        
+        <!-- Background and surface -->
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorSurfaceVariant">@color/surface_variant</item>
+        <item name="colorOnSurface">@color/on_surface</item>
+        
+        <!-- Error color -->
+        <item name="colorError">@color/error</item>
+        <item name="colorOnError">@color/white</item>
+        
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+        
+        <!-- Window -->
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+
+    <style name="Theme.YorkShire_Crimes" parent="Base.Theme.YorkShire_Crimes" />
+    
+    <!-- Toolbar Style -->
+    <style name="Theme.YorkShire_Crimes.Toolbar" parent="Widget.Material3.Toolbar">
+        <item name="android:background">@color/primary</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="subtitleTextColor">@color/white</item>
+    </style>
+    
+    <!-- Card Style -->
+    <style name="Theme.YorkShire_Crimes.Card" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardBackgroundColor">@color/card_background</item>
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="strokeColor">@color/card_stroke</item>
+        <item name="strokeWidth">0dp</item>
+    </style>
+    
+    <!-- Primary Button Style -->
+    <style name="Theme.YorkShire_Crimes.Button.Primary" parent="Widget.Material3.Button">
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@color/primary</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+    
+    <!-- Outlined Button Style -->
+    <style name="Theme.YorkShire_Crimes.Button.Outlined" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="strokeColor">@color/primary</item>
+        <item name="android:textColor">@color/primary</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+    
+    <!-- Text Input Style -->
+    <style name="Theme.YorkShire_Crimes.TextInput" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/primary</item>
+        <item name="hintTextColor">@color/primary</item>
+        <item name="boxCornerRadiusTopStart">8dp</item>
+        <item name="boxCornerRadiusTopEnd">8dp</item>
+        <item name="boxCornerRadiusBottomStart">8dp</item>
+        <item name="boxCornerRadiusBottomEnd">8dp</item>
+    </style>
+    
+    <!-- Bottom Navigation Style -->
+    <style name="Theme.YorkShire_Crimes.BottomNav" parent="Widget.Material3.BottomNavigationView">
+        <item name="backgroundTint">@color/surface</item>
+        <item name="itemIconTint">@color/bottom_nav_color</item>
+        <item name="itemTextColor">@color/bottom_nav_color</item>
+        <item name="itemActiveIndicatorStyle">@style/Theme.YorkShire_Crimes.BottomNav.ActiveIndicator</item>
+    </style>
+    
+    <style name="Theme.YorkShire_Crimes.BottomNav.ActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/primary_light</item>
+    </style>
+    
+    <!-- FAB Style -->
+    <style name="Theme.YorkShire_Crimes.FAB" parent="Widget.Material3.FloatingActionButton.Primary">
+        <item name="backgroundTint">@color/primary</item>
+        <item name="tint">@color/white</item>
+    </style>
+    
+    <!-- Splash Screen Style -->
+    <style name="Theme.YorkShire_Crimes.Splash" parent="Theme.YorkShire_Crimes">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+
+</resources>
